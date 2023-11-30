@@ -1,10 +1,10 @@
-![MasterHead](https://media0.giphy.com/media/dyrvKKmH5j2O4/giphy.gif?cid=ecf05e47zigo2k1u256mg0eaz24lm3cgihujzx3vw4i136ko&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+![MasterHead](https://media4.giphy.com/media/VFVplUtUsqzejhRON0/giphy.gif?cid=ecf05e474lhxv4wgqbcowsr7nav1g65qz00wzc95t6vbuln6&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 
 <h1 align="center">Hi 👋, I'm Emir Uçgun</h1>
-<h3 align="center">Computer Engineering Student at MEF University</h3>
+<h4 align="center">I'm Computer Engineering Student at MEF University</h4>
 
-- 🔭 I’m currently working on **React Native**
+- 🔭 Currently working on **React Native**
 
 
 <h3>My Latest Blog Posts</h3>
