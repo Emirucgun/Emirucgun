@@ -6,9 +6,6 @@
 
 - 🔭 I’m currently working on **React Native**
 
-- 📝 I regularly write articles on [https://medium.com/@emirucgun](https://medium.com/@emirucgun)
-
-- 📫 How to reach me **emirucgun@gmail.com**
 
 <h3>My Latest Blog Posts</h3>
 
