@@ -7,13 +7,6 @@
 - 🔭 Currently working on **React Native**
 
 
-<h3>My Latest Blog Posts</h3>
-
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@emirucgun/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@emirucgun/0" alt="Recent Article 0"> 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@emirucgun/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@emirucgun/1" alt="Recent Article 1"> 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@emirucgun/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@emirucgun/2" alt="Recent Article 2"> 
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/emir-ucgun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emirucgun" height="30" width="40" /></a>
