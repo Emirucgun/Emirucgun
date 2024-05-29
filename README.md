@@ -8,11 +8,6 @@
 
 - 📫 How to reach me **emirucgun@gmail.com**
 
-<h3>My Last Blog Posts:</h3>
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@emirucgun/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@emirucgun/0" alt="Recent Article 0"> 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@emirucgun/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@emirucgun/1" alt="Recent Article 1"> 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@emirucgun/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@emirucgun/2" alt="Recent Article 2"> 
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
