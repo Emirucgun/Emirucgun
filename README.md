@@ -4,8 +4,6 @@
 <h1 align="center">Hi 👋, I'm Emir Uçgun</h1>
 <h3 align="center">Computer Engineering Student at Politecnico di Torino</h3>
 
-- 🔭 I’m currently working on **React Native**
-
 - 📫 How to reach me **emirucgun@gmail.com**
 
 
